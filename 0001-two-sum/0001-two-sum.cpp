@@ -6,17 +6,20 @@ class Solution
 public:
     vector<int> twoSum(vector<int>& nums, int target)
     {
+        unordered_map<int,int>mp;
         int n = size(nums);
         for (int i = 0; i < n; i++)
         {
-            for (int j = i + 1; j < n; j++)
+            if (mp.find(target - nums[i])!= mp.end())
             {
-                if (nums[i] + nums[j] == target)
-                {
-                    return {i, j};
-                }
+                return {mp[target - nums[i]],i};
             }
+            else
+            {
+                mp[nums[i]] = i;
+            }
+
         }
-        return {}; // no pair found
+        return {}; 
     }
 };
