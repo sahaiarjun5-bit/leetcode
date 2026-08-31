@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0278-first-bad-version) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0016-3sum-closest) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
