@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0016-3sum-closest) |
@@ -106,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0278-first-bad-version) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
