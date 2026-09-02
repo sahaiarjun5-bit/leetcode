@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0035-search-insert-position) |
 | [0219-contains-duplicate-ii](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/sahaiarjun5-bit/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0231-power-of-two) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/sahaiarjun5-bit/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Recursion
 |  |
 | ------- |
