@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0035-search-insert-position) |
 | [0219-contains-duplicate-ii](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/sahaiarjun5-bit/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Hash Table
 |  |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sahaiarjun5-bit/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
